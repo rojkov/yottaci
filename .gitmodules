@@ -1,0 +1,9 @@
+[submodule "azure-backend"]
+	path = azure-backend
+	url = https://github.com/rojkov/yottaci-azure-backend.git
+[submodule "azure-webhooks"]
+	path = azure-webhooks
+	url = https://github.com/rojkov/yottaci-azure-webhooks.git
+[submodule "azure-deployment"]
+	path = azure-deployment
+	url = https://github.com/rojkov/yottaci-azure-deployment.git
